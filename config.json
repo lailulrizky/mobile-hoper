@@ -1,0 +1,9 @@
+{
+  "folder_data": "data",
+  "folder_cadangan": "backup",
+  "folder_log": "log",
+  "cadangan_tiap_jam": 4,
+  "cadangan_simpan_hari": 60,
+  "logout_otomatis_menit": 0,
+  "satu_instans": true
+}
